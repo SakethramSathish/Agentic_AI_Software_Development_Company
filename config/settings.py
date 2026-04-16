@@ -19,7 +19,7 @@ if not GEMINI_API_KEY:
 # ===============================
 
 GEMINI_FAST_MODEL = "gemini-2.5-flash"
-GEMINI_PRO_MODEL = "gemini-2.5-pro"
+GEMINI_PRO_MODEL = "gemma-4-31b-it"
 
 # ===============================
 # 🏢 Project Metadata
